@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Harsh.Dusane/My Downloads/memcached-2.2.jar/memcached-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/Harsh.Dusane/My Downloads/spy-2.4.jar/spy-2.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
